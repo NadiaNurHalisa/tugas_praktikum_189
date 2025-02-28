@@ -107,7 +107,7 @@ class _LoginPageState extends State<LoginPage> {
       obscureText: obscureText,
       decoration: InputDecoration(
         labelText: label,
-        hintText: 'Masukkan $label Anda',
+        hintText: 'Masukkan $label anda',
         prefixIcon: Icon(icon),
         border: OutlineInputBorder(
           borderRadius: BorderRadius.circular(15.0),
